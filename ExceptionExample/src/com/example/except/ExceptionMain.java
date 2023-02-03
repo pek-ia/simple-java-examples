@@ -15,7 +15,7 @@ public class ExceptionMain {
 
 
 	public static void main(String[] args) {
-	    int a = 234, b = 0;
+	    int a = 239, b = 0;
 	    double result = 0.0;
 
 	    try {
