@@ -25,6 +25,8 @@ public class ExceptionMain {
 
 	    } catch (Exception e) {
 
+	    	// I'm just putting in a comment.
+	    	
 	        Logger.getGlobal().log( Level.SEVERE, 
                      "You CAN'T really Do THAT!!: " + e.getMessage());
 
