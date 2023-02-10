@@ -1,6 +1,6 @@
 # simple-java-examples
 
-## HelloWorld
+## HelloWorld (from Dimpe)
 
 ## ExceptionExample
 
