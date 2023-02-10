@@ -19,8 +19,8 @@ public class ExceptionMain {
 
 		try {
 
-			result = evalFraction(a, b);
-			System.out.println("result is " + result);
+	        result = evalFraction(a, b);
+	        System.out.println("result is now " + result);
 
 		} catch (Exception e) {
 
