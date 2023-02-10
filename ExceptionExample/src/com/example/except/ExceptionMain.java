@@ -21,7 +21,7 @@ public class ExceptionMain {
 	    try {
 
 	        result = evalFraction(a, b);
-	        System.out.println("result is " + result);
+	        System.out.println("result is now " + result);
 
 	    } catch (Exception e) {
 
