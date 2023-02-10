@@ -26,7 +26,7 @@ public class ExceptionMain {
 	    } catch (Exception e) {
 
 	        Logger.getGlobal().log( Level.SEVERE, 
-                     "I can't do that math: " + e.getMessage());
+                     "I can't even: " + e.getMessage());
 
 	    }		
 	}
